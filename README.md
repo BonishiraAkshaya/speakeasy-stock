@@ -116,3 +116,16 @@ Product  → Rice
 Quantity → 2
 Unit     → Bags
 Action   → Stock OUT
+
+## 5. 🌐 Regional Language Support
+
+The voice interface supports:
+
+- English (India)
+- Telugu
+- Hindi
+- Tamil
+- Kannada
+
+This makes the voice interface more suitable for users who may prefer regional languages or mixed-language interaction.
+
